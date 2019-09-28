@@ -16,37 +16,39 @@
 
 <body>
   <header>
-    <div>
-      <h1>Serina Tsang</h1>
-    </div>  
-    
-    <nav class="topnav-right">
-      <ul>
-          <li><a href="index.html">About</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li class="nav-contact"><a href="contact.html">Contact</a></li>
-    </ul>      
+        <nav class="navbar navbar-expand-lg navbar-dark bg-light">
+                <h1 class="navbar-brand">Serina Tsang</h1>      
+            <ul class="nav navbar ml-auto">
+                <li class="nav-item">
+                  <a id="nav-link" href="index.html">About</a>
+                </li>
+                <li class="nav-item">
+                  <a id="nav-link" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                  <a id="nav-link" href="contact.html">Contact</a>
+                </li>
+              </ul>
+         </nav>    
   </header>
 
-      <div class="container-portfolio">
-
-       <h1>Portfolio</h1> 
-       <hr/>
-      
-       <div class="column">
-        <a href="https://scratch.mit.edu/projects/327921569" target="_blank"><img class="portfolio-images" src ="assets/images/ST_cheesy_puffs_game.png"></a>
-        
-    <h4 id="cheesy">ST Cheesy Puffs Game</h4>
-       </div>   
-       <div class="column">
-        <a href="http://serinat.github.io/cookie-stand/" target="_blank"><img class="portfolio-images" src="assets/images/rsz_smoked-salmon-macaron-1.jpg"></a>
-    <h4 id="cookie">Pat's Cookie-Stand</h4>  
+  <div class="container bg-light">
+        <h1>Portfolio</h1> 
+        <div class="row align-items-center">
+            <div class="col-md-4">
+              <img class="portfolio-images img-fluid float-left img-thumbnail" alt="Responsive-image" src ="assets/images/ST_cheesy_puffs_game.png">
+                <h6 id="cheesy">ST Cheesy Puffs Game</h6>
+            </div>    
+            <div class="col-md-4">
+              <img class="portfolio-images img-fluid float-left img-thumbnail" alt="Responsive-Image" src="assets/images/rsz_smoked-salmon-macaron-1.jpg">
+                <h6 id="cookie">Pat's Cookie Stand</h6>
+            </div>
+            <div class="col-md-4">
+              <img class="portfolio-images img-fluid float-sm-left img-thumbnail" alt="Responsive-Image" src="assets/images/psq logo.png">
+               <h6 id="art">Art Gallery Finder</h6>
+            </div>      
         </div>
-       <div class="column">
-         <a href="http://lillianszugyi.github.io/art-gallery-finder/" target="_blank"><img class="portfolio-images" src="assets/images/psq logo.png"></a> 
-    <h4 id="art">Art Gallery Finder</h4>
-</div>
-</div>
+    </div>     
 
 <footer class="footer">Copyright &#169;
 </footer>   
