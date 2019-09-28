@@ -50,6 +50,8 @@ h1 {
 
 p {
     color: #777777;
+    line-height: normal;
+    margin-bottom: 2em;
 }
 
 html, body {
@@ -58,6 +60,8 @@ html, body {
     height: 100%;
     width: 100%;
     margin: 0;
+    margin-bottom: 30px;
+    min-height: 100%;
 }
 
 * {box-sizing: border-box;}
@@ -119,12 +123,6 @@ input[type=submit]:hover {
     color: #777777;
     margin: 0 auto;
     margin-top: 50px;
-}
-
-.column {
-    float: left;
-    width: 33.3%;
-    padding: 5px;
 }
 
 .container-portfolio {
