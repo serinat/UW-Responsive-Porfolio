@@ -213,6 +213,8 @@ hr {
       padding: 20px;
       margin: 20px;
     }
+
+
 }
 
 @media screen and (max-width: 640px) {
@@ -223,4 +225,10 @@ hr {
       padding: 20px;
       margin: 0;
     }
+
+    .portfolio-images {
+        height: 200px;
+        width: 100%;
+    }
+    
 }
