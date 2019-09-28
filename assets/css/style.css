@@ -23,7 +23,7 @@ img {
 }
 
 header {
-    position: relative;
+    /* position: relative; */
     margin-bottom: 30px;
     text-align: center;
     background-color: #ffffff;
@@ -33,13 +33,13 @@ header {
 }
 
 header h1 {
-    position: absolute;
+    /* position: absolute; */
     color: #ffffff;
     background-color: #4aaaa5;
     width: 250px;
     text-align: center;
     padding: 5px;
-    margin-left: 160px;
+    /* margin-left: 160px; */
 }
 
 h1 {
@@ -100,8 +100,8 @@ input[type=submit]:hover {
     margin: 0;
 }
 
-.nav-contact {
-    margin-right: 150px;
+.navbar-toggler {
+    background-color: #4aaaa5;
 }
 
 .top-container {
@@ -159,9 +159,6 @@ hr {
     width: 200px;
 }
 
-.topnav-right {
-    float: right;
-}
 
 .footer {
   position: fixed;
@@ -205,22 +202,18 @@ hr {
     margin: auto;
   }
 
-  @media screen and (max-width: 768px) {
+   @media screen and (max-width: 768px) {
   
     .wrapper {
-      /* Box-model */
       width: 100%;
       padding: 20px;
       margin: 20px;
     }
-
-
 }
 
-@media screen and (max-width: 640px) {
+    @media screen and (max-width: 640px) {
   
     .wrapper {
-      /* Box-model */
       width: 100%;
       padding: 20px;
       margin: 0;
@@ -230,5 +223,4 @@ hr {
         height: 200px;
         width: 100%;
     }
-    
 }
