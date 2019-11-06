@@ -8,4 +8,6 @@
 - https://www.w3schools.com/
 - https://getbootstrap.com/
 - https://stackoverflow.com/
-- Dan the man!
+
+## Contributors
+- https://danmonteton.herokuapp.com/
