@@ -34,8 +34,8 @@ header {
 
 header h1 {
     /* position: absolute; */
-    color: #ffffff;
-    background-color: #4aaaa5;
+    color: black;
+    background-color: #f6e8e5;
     width: 250px;
     text-align: center;
     padding: 5px;
@@ -43,8 +43,8 @@ header h1 {
 }
 
 h1 {
-    color: #4aaaa5;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-family: 'Oswald', sans-serif;
 }
 
 
@@ -55,7 +55,8 @@ p {
 }
 
 html, body {
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f6e8e5;
+    font-family: 'Oswald', sans-serif;
     height: 100%;
     width: 100%;
     margin: 0;
@@ -77,8 +78,8 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #4aaaa5;
-  color: white;
+  background-color: #f6e8e5;
+  color: black;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -86,22 +87,24 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #4aaaa5;
+  background-color: #f6e8e5;
 }
 
 .btn-primary {
-    background-color: #4aaaa5;
-    border-color: #4aaaa5;
+    background-color: black;
+    border-color: black;
 }
 
 .navbar-brand {
-    color: #FFFFFF;
-    font: 40px Georgia;
+    color: black;
+    background-color: #f6e8e5;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
     margin: 0;
 }
 
 .navbar-toggler {
-    background-color: #4aaaa5;
+    background-color: #f6e8e5;
 }
 
 .top-container {
@@ -115,7 +118,7 @@ input[type=submit]:hover {
 
 .container {
     width: 960px;
-    font-family: 'Arial, 'Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', sans-serif;
     background: #ffffff;
     border: solid #cccccc 2px;
     padding: 20px;
@@ -129,7 +132,7 @@ input[type=submit]:hover {
     
     width: 960px;
     height: 500px;
-    font-family: 'Arial, 'Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', sans-serif;
     background: #ffffff;
     border: solid #cccccc 2px;
     padding: 20px;
@@ -145,7 +148,7 @@ hr {
 
 .container-contact {
     width: 960px;
-    font-family: 'Arial, 'Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', sans-serif;
     background: #ffffff;
     border: solid #cccccc 2px;
     padding: 20px;
@@ -165,30 +168,27 @@ hr {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #666666;
-  color: white;
+  color: black;
   text-align: center;
-  border-top: 8px solid #4aaaa5;
-  height: 60px;
-  line-height: 60px;
+  font-family: 'Oswald', sans-serif;
 }
 
 #project {
-    background-color: #4aaaa5;
+    background-color: #f6e8e5;
     color: #ffffff;
     width: 200px;
     text-align: center;
 }
 
 #quiz {
-    background-color: #4aaaa5;
+    background-color: #f6e8e5;
     color: #ffffff;
     width: 200px;
     text-align: center;
 }
 
 #pw {
-    background-color: #4aaaa5;
+    background-color: #f6e8e5;
     color: #ffffff;
     width: 200px;
     text-align: center;
