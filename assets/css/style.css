@@ -96,11 +96,12 @@ input[type=submit]:hover {
     border-color: black;
 }
 
+
 .navbar-brand {
     color: black;
     background-color: #f6e8e5;
     font-family: 'Oswald', sans-serif;
-    font-size: 40px;
+    font-size: 35px;
     margin: 0;
 }
 
@@ -189,22 +190,19 @@ hr {
 }
 
 #project {
-    background-color: #f6e8e5;
-    color: #ffffff;
+    color: #777777;
     width: 200px;
     text-align: center;
 }
 
 #quiz {
-    background-color: #f6e8e5;
-    color: #ffffff;
+    color: #777777;
     width: 200px;
     text-align: center;
 }
 
 #pw {
-    background-color: #f6e8e5;
-    color: #ffffff;
+    color: #777777;
     width: 200px;
     text-align: center;
 }
@@ -213,7 +211,8 @@ hr {
     float: left;
     width: 65%;
     margin: 60px;
-
+    letter-spacing: -0.05em;
+    font-size: 35px;
 }
 
 #icon {
