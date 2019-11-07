@@ -126,8 +126,8 @@ input[type=submit]:hover {
     padding: 20px;
     color: #777777;
     margin: 0 auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    /*margin-top: 50px;
+    margin-bottom: 50px;*/
     margin-left: 60px;
     margin-right: 60px;
 }
@@ -172,6 +172,11 @@ hr {
     width: 200px;
 }
 
+#contact {
+    color: #777777;
+    height: 180px;
+}
+
 
 .footer {
   position: fixed;
@@ -213,6 +218,12 @@ hr {
     margin: 60px;
     letter-spacing: -0.05em;
     font-size: 35px;
+}
+
+#about, #about2 {
+    margin-right: -200px;
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
 
 #icon {
