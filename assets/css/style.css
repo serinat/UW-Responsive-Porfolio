@@ -241,6 +241,11 @@ hr {
     margin-right: 60px;
 }
 
+a img:hover { 
+    position: relative; 
+    top: -8px;
+}     
+
 .wrapper {
     /* Box-model */
     width: 100%; 
