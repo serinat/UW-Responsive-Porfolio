@@ -220,7 +220,7 @@ hr {
 }
 
 #about, #about2 {
-    margin-right: -200px;
+    margin-right: -180px;
     margin-left: 10px;
     margin-bottom: 10px;
 }
@@ -249,8 +249,19 @@ hr {
       padding: 20px;
       margin: 20px;
     }
+
+    #about, #about2 {
+        margin: 0 auto;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    hr {
+        display: none;
+    }
 }
 
+/*
     @media screen and (max-width: 640px) {
   
     .wrapper {
@@ -262,5 +273,16 @@ hr {
     .portfolio-images {
         height: 200px;
         width: 100%;
+    }
+
+    #contact {
+        height: 220px;
+        width: 100%;
+    }
+
+    #about, #about2 {
+        margin: 0 auto;
+        margin-left: 60px;
+        margin-right: 60px;
     }
 }
