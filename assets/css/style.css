@@ -254,6 +254,11 @@ a img:hover {
     margin: auto;
   }
 
+  .slideOutRight {
+    -webkit-animation-name: slideOutRight;
+    animation-name: slideOutRight;
+  }
+
    @media screen and (max-width: 768px) {
   
     .wrapper {
