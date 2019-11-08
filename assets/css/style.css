@@ -54,6 +54,10 @@ p {
     margin-bottom: 2em;
 }
 
+a {
+    color: black;
+}
+
 html, body {
     background-color: #f6e8e5;
     font-family: 'Oswald', sans-serif;
@@ -254,9 +258,11 @@ hr {
     margin: auto;
   }
 
-a img:hover { 
+  a img:hover, a:hover { 
     position: relative; 
     top: -8px;
+    color: hotpink;
+    border-color: hotpink;
 }     
 
   .slideInLeft {
