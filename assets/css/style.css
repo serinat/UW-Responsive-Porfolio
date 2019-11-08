@@ -241,10 +241,10 @@ hr {
     margin-right: 60px;
 }
 
-a img:hover { 
+/*a img:hover { 
     position: relative; 
     top: -8px;
-}     
+}     */
 
 .wrapper {
     /* Box-model */
@@ -254,10 +254,20 @@ a img:hover {
     margin: auto;
   }
 
-  .slideOutRight {
-    -webkit-animation-name: slideOutRight;
-    animation-name: slideOutRight;
+a img:hover { 
+    position: relative; 
+    top: -8px;
+}     
+
+  .slideInLeft {
+    -webkit-animation-name: slideInLeft;
+    animation-name: slideInLeft;
   }
+
+  .bounce {
+    -webkit-animation-name: bounce;
+    animation-name: bounce;
+    }
 
    @media screen and (max-width: 768px) {
   
