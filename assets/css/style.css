@@ -260,6 +260,12 @@ hr {
 
   a img:hover, a:hover { 
     position: relative; 
+    color: hotpink;
+    border-color: hotpink;
+}     
+
+a img:hover { 
+    position: relative; 
     top: -8px;
     color: hotpink;
     border-color: hotpink;
