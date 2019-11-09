@@ -242,7 +242,17 @@ hr {
 
 #footer-icon {
     margin-bottom: 10px;
-    margin-right: 60px;
+    margin-right: 52px;
+}
+
+#linked {
+    margin-right: 35px;
+    margin-top: 15px;
+}
+
+#git {
+    margin-right: 8px;
+    margin-top: 15px;
 }
 
 /*a img:hover { 
@@ -317,33 +327,23 @@ a img:hover {
         width: 100%;
     }
 
+    #footer-icon {
+        margin-bottom: 10px;
+        margin-right: 52px;
+    }
+    
+    #linked {
+        margin-right: 35px;
+        margin-top: 15px;
+    }
+    
+    #git {
+        margin-right: 8px;
+        margin-top: 15px;
+    }
+
     hr {
         display: none;
     }
 }
 
-/*
-    @media screen and (max-width: 640px) {
-  
-    .wrapper {
-      width: 100%;
-      padding: 20px;
-      margin: 0;
-    }
-
-    .portfolio-images {
-        height: 200px;
-        width: 100%;
-    }
-
-    #contact {
-        height: 220px;
-        width: 100%;
-    }
-
-    #about, #about2 {
-        margin: 0 auto;
-        margin-left: 60px;
-        margin-right: 60px;
-    }
-}
