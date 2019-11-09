@@ -7,9 +7,9 @@
 ### Updated portfolio (homework 8) 
 - Homework 8 is included in this Repo with updated portfolio featuring Project 1 and two homework assignments (Password Generator & Code Quiz). GiHub profile was also updated and repositories of project1 and two homework assignments pinned, along with link to GitHub profile on Home and Contact pages. Updated resume was also uploaded with PDF link available in Contact page. Lastly, LinkedIn was updated with link on Home and Contact pages. 
 
-In the portfolio page I have github and deployed pages for project1 and both homework assignments. Screenshot of each project/assignment is also on the page. I chose my own color palette (white, light peach and black/grey text). I also designed/drew my own initals picture as an icon for the page (also small version located on footer). After working with materialize.css on our project, I found Bootstrap to be more elaborate and user-friendly hence the reason I stuck with it. I also used fontawesome icons and animations from animate.css.
+- In the portfolio page I have github and deployed pages for project1 and both homework assignments. Screenshot of each project/assignment is also on the page. I chose my own color palette (white, light peach and black/grey text). I also designed/drew my own initals picture as an icon for the page (also small version located on footer). After working with materialize.css on our project, I found Bootstrap to be more elaborate and user-friendly hence the reason I stuck with it. I also used fontawesome icons and animations from animate.css.
 
-I found this homework assignment to be pretty straight forward plus I have a lot of fun styling pages. CSS was tricky at times per usual, but I found documentation to help me out. I feel like this homework assignment is open-ended in that I could continue to work on it indefinitely from adding additional projects to incorporating more style. I look forward to building on...
+- I found this homework assignment to be pretty straight forward plus I have a lot of fun styling pages. CSS was tricky at times per usual, but I found documentation to help me out. I feel like this homework assignment is open-ended in that I could continue to work on it indefinitely from adding additional projects to incorporating more style. I look forward to building on...
 
 ## Resources
 - https://www.w3schools.com/
